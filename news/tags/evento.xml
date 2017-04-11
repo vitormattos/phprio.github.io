@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title><![CDATA[PHPRio]]></title>
+    <link href="/news/tags/evento.xml" rel="self"/>
+    <link href="/"/>
+    <updated>2017-04-11T21:56:21+00:00</updated>
+    <id>/</id>
+        <generator uri="http://sculpin.io/">Sculpin</generator>
+            <entry>
+            <title type="html"><![CDATA[Boteco PHP de Final de ano - 2016]]></title>
+            <link href="/news/2016-12-01/boteco-php-final-de-ano"/>
+            <updated>2016-12-01T00:00:00+00:00</updated>
+            <id>/news/2016-12-01/boteco-php-final-de-ano</id>
+            <content type="html"><![CDATA[<p>De uma maneira bem mais informal, vamos nos reunir para fomentar eventos ao vivo e online. Conversar sobre a linguagem, trabalho, eventos e tudo mais.</p>
+
+<blockquote>
+  <p><strong><a href="http://bournburger.com.br">Bourn Burger</a> (<a href="https://www.facebook.com/bournburger/">Facebook</a>):</strong><br />
+  Novo local para saborearmos boa comida, hambúrgueres, e umas boas cervejas. Fica próximo ao já conhecido Lapa Café, na Rua Gomes Freire - próximo à Mem de Sá.</p>
+</blockquote>
+]]></content>
+        </entry>
+    </feed>
